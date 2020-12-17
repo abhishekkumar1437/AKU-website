@@ -7,3 +7,10 @@ All Information about Bihar Engineering Colleges
 * Previous year question
 * All Colleges list Rank wise
 * Result
+# Tools used
+* HTML5
+* CSS3
+* Bootstrap4
+* MySQL
+* JavaScript
+* PhP
